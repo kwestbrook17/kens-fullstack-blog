@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum.",
+    "date_created": "November 24, 2023",
+    "user_id": 1
+  },
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum.",
+    "date_created": "November 23, 2023",
+    "user_id": 2
+  },
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum.",
+    "date_created": "November 20, 2023",
+    "user_id": 3
+  }
+]
